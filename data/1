@@ -1,0 +1,90 @@
+Device 1: Image /home/rock/darknet-master-old/data/ILSVR60/ILSVRC2012_val_00000001.JPEG predicted as sea snake
+Device 1: Image /home/rock/darknet-master-old/data/ILSVR60/ILSVRC2012_val_00000002.JPEG predicted as ski
+Device 1: Batch inference time: 1.178211 seconds
+Device 1: Image /home/rock/darknet-master-old/data/ILSVR60/ILSVRC2012_val_00000003.JPEG predicted as Shetland sheepdog
+Device 1: Image /home/rock/darknet-master-old/data/ILSVR60/ILSVRC2012_val_00000004.JPEG predicted as soup bowl
+Device 1: Batch inference time: 0.874056 seconds
+Device 1: Image /home/rock/darknet-master-old/data/ILSVR60/ILSVRC2012_val_00000005.JPEG predicted as cradle
+Device 1: Image /home/rock/darknet-master-old/data/ILSVR60/ILSVRC2012_val_00000006.JPEG predicted as garter snake
+Device 1: Batch inference time: 0.886721 seconds
+Device 1: Image /home/rock/darknet-master-old/data/ILSVR60/ILSVRC2012_val_00000007.JPEG predicted as porcupine
+Device 1: Image /home/rock/darknet-master-old/data/ILSVR60/ILSVRC2012_val_00000008.JPEG predicted as face powder
+Device 1: Batch inference time: 0.858933 seconds
+Device 1: Image /home/rock/darknet-master-old/data/ILSVR60/ILSVRC2012_val_00000009.JPEG predicted as mousetrap
+Device 1: Image /home/rock/darknet-master-old/data/ILSVR60/ILSVRC2012_val_00000010.JPEG predicted as Maltese dog
+Device 1: Batch inference time: 0.887812 seconds
+Device 1: Image /home/rock/darknet-master-old/data/ILSVR60/ILSVRC2012_val_00000011.JPEG predicted as brain coral
+Device 1: Image /home/rock/darknet-master-old/data/ILSVR60/ILSVRC2012_val_00000012.JPEG predicted as cougar
+Device 1: Batch inference time: 0.885159 seconds
+Device 1: Image /home/rock/darknet-master-old/data/ILSVR60/ILSVRC2012_val_00000013.JPEG predicted as guenon
+Device 1: Image /home/rock/darknet-master-old/data/ILSVR60/ILSVRC2012_val_00000014.JPEG predicted as recreational vehicle
+Device 1: Batch inference time: 0.866269 seconds
+Device 1: Image /home/rock/darknet-master-old/data/ILSVR60/ILSVRC2012_val_00000015.JPEG predicted as harvester
+Device 1: Image /home/rock/darknet-master-old/data/ILSVR60/ILSVRC2012_val_00000016.JPEG predicted as grey whale
+Device 1: Batch inference time: 0.875703 seconds
+Device 1: Image /home/rock/darknet-master-old/data/ILSVR60/ILSVRC2012_val_00000017.JPEG predicted as goldfish
+Device 1: Image /home/rock/darknet-master-old/data/ILSVR60/ILSVRC2012_val_00000018.JPEG predicted as kite
+Device 1: Batch inference time: 0.873360 seconds
+Device 1: Image /home/rock/darknet-master-old/data/ILSVR60/ILSVRC2012_val_00000019.JPEG predicted as carton
+Device 1: Image /home/rock/darknet-master-old/data/ILSVR60/ILSVRC2012_val_00000020.JPEG predicted as crane
+Device 1: Batch inference time: 0.856922 seconds
+Device 1: Image /home/rock/darknet-master-old/data/ILSVR60/ILSVRC2012_val_00000021.JPEG predicted as porcupine
+Device 1: Image /home/rock/darknet-master-old/data/ILSVR60/ILSVRC2012_val_00000022.JPEG predicted as Ibizan hound
+Device 1: Batch inference time: 0.887060 seconds
+Device 1: Image /home/rock/darknet-master-old/data/ILSVR60/ILSVRC2012_val_00000023.JPEG predicted as Granny Smith
+Device 1: Image /home/rock/darknet-master-old/data/ILSVR60/ILSVRC2012_val_00000024.JPEG predicted as planetarium
+Device 1: Batch inference time: 0.892419 seconds
+Device 1: Image /home/rock/darknet-master-old/data/ILSVR60/ILSVRC2012_val_00000025.JPEG predicted as vulture
+Device 1: Image /home/rock/darknet-master-old/data/ILSVR60/ILSVRC2012_val_00000026.JPEG predicted as table lamp
+Device 1: Batch inference time: 0.841234 seconds
+Device 1: Image /home/rock/darknet-master-old/data/ILSVR60/ILSVRC2012_val_00000027.JPEG predicted as white wolf
+Device 1: Image /home/rock/darknet-master-old/data/ILSVR60/ILSVRC2012_val_00000028.JPEG predicted as Walker hound
+Device 1: Batch inference time: 0.862433 seconds
+Device 1: Image /home/rock/darknet-master-old/data/ILSVR60/ILSVRC2012_val_00000029.JPEG predicted as green snake
+Device 1: Image /home/rock/darknet-master-old/data/ILSVR60/ILSVRC2012_val_00000030.JPEG predicted as tile roof
+Device 1: Batch inference time: 0.868339 seconds
+Device 1: Image /home/rock/darknet-master-old/data/ILSVR60/ILSVRC2012_val_00000031.JPEG predicted as cabbage butterfly
+Device 1: Image /home/rock/darknet-master-old/data/ILSVR60/ILSVRC2012_val_00000032.JPEG predicted as go-kart
+Device 1: Batch inference time: 0.876626 seconds
+Device 1: Image /home/rock/darknet-master-old/data/ILSVR60/ILSVRC2012_val_00000033.JPEG predicted as terrapin
+Device 1: Image /home/rock/darknet-master-old/data/ILSVR60/ILSVRC2012_val_00000034.JPEG predicted as ballplayer
+Device 1: Batch inference time: 0.850085 seconds
+Device 1: Image /home/rock/darknet-master-old/data/ILSVR60/ILSVRC2012_val_00000035.JPEG predicted as half track
+Device 1: Image /home/rock/darknet-master-old/data/ILSVR60/ILSVRC2012_val_00000036.JPEG predicted as vestment
+Device 1: Batch inference time: 0.883283 seconds
+Device 1: Image /home/rock/darknet-master-old/data/ILSVR60/ILSVRC2012_val_00000037.JPEG predicted as common newt
+Device 1: Image /home/rock/darknet-master-old/data/ILSVR60/ILSVRC2012_val_00000038.JPEG predicted as abacus
+Device 1: Batch inference time: 0.872593 seconds
+Device 1: Image /home/rock/darknet-master-old/data/ILSVR60/ILSVRC2012_val_00000039.JPEG predicted as purse
+Device 1: Image /home/rock/darknet-master-old/data/ILSVR60/ILSVRC2012_val_00000040.JPEG predicted as garden spider
+Device 1: Batch inference time: 0.861422 seconds
+Device 1: Image /home/rock/darknet-master-old/data/ILSVR60/ILSVRC2012_val_00000041.JPEG predicted as bassinet
+Device 1: Image /home/rock/darknet-master-old/data/ILSVR60/ILSVRC2012_val_00000042.JPEG predicted as rain barrel
+Device 1: Batch inference time: 0.875187 seconds
+Device 1: Image /home/rock/darknet-master-old/data/ILSVR60/ILSVRC2012_val_00000043.JPEG predicted as spoonbill
+Device 1: Image /home/rock/darknet-master-old/data/ILSVR60/ILSVRC2012_val_00000044.JPEG predicted as standard schnauzer
+Device 1: Batch inference time: 0.871988 seconds
+Device 1: Image /home/rock/darknet-master-old/data/ILSVR60/ILSVRC2012_val_00000045.JPEG predicted as Newfoundland
+Device 1: Image /home/rock/darknet-master-old/data/ILSVR60/ILSVRC2012_val_00000046.JPEG predicted as pitcher
+Device 1: Batch inference time: 0.879297 seconds
+Device 1: Image /home/rock/darknet-master-old/data/ILSVR60/ILSVRC2012_val_00000047.JPEG predicted as freight car
+Device 1: Image /home/rock/darknet-master-old/data/ILSVR60/ILSVRC2012_val_00000048.JPEG predicted as beagle
+Device 1: Batch inference time: 0.866946 seconds
+Device 1: Image /home/rock/darknet-master-old/data/ILSVR60/ILSVRC2012_val_00000049.JPEG predicted as pickup
+Device 1: Image /home/rock/darknet-master-old/data/ILSVR60/ILSVRC2012_val_00000050.JPEG predicted as butcher shop
+Device 1: Batch inference time: 0.879716 seconds
+Device 1: Image /home/rock/darknet-master-old/data/ILSVR60/ILSVRC2012_val_00000051.JPEG predicted as bee eater
+Device 1: Image /home/rock/darknet-master-old/data/ILSVR60/ILSVRC2012_val_00000052.JPEG predicted as axolotl
+Device 1: Batch inference time: 0.870033 seconds
+Device 1: Image /home/rock/darknet-master-old/data/ILSVR60/ILSVRC2012_val_00000053.JPEG predicted as switch
+Device 1: Image /home/rock/darknet-master-old/data/ILSVR60/ILSVRC2012_val_00000054.JPEG predicted as handkerchief
+Device 1: Batch inference time: 0.881799 seconds
+Device 1: Image /home/rock/darknet-master-old/data/ILSVR60/ILSVRC2012_val_00000055.JPEG predicted as hamster
+Device 1: Image /home/rock/darknet-master-old/data/ILSVR60/ILSVRC2012_val_00000056.JPEG predicted as cab
+Device 1: Batch inference time: 0.867358 seconds
+Device 1: Image /home/rock/darknet-master-old/data/ILSVR60/ILSVRC2012_val_00000057.JPEG predicted as Pekinese
+Device 1: Image /home/rock/darknet-master-old/data/ILSVR60/ILSVRC2012_val_00000058.JPEG predicted as stinkhorn
+Device 1: Batch inference time: 0.881840 seconds
+Device 1: Image /home/rock/darknet-master-old/data/ILSVR60/ILSVRC2012_val_00000059.JPEG predicted as swab
+Device 1: Image /home/rock/darknet-master-old/data/ILSVR60/ILSVRC2012_val_00000060.JPEG predicted as hamper
+Device 1: Batch inference time: 0.874393 seconds
